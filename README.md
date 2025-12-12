@@ -133,7 +133,7 @@ ecommerce-gamer/
 
 ```bash
 # Clone o repositório
-git clone <seu-repositorio>
+git clone <https://github.com/monnikys/atividade-front-end-senai.git>
 cd ecommerce-gamer
 
 # Instale as dependências
@@ -306,7 +306,7 @@ O projeto foi testado em:
 
 ## 👨‍💻 Autor
 
-**Desenvolvedor:** [Seu Nome]  
+**Desenvolvedor:** [Monniky Ribeiro]  
 **Curso:** Codificação Front-End Full Stack  
 **Data:** Dezembro de 2025
 
